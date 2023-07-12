@@ -1,5 +1,4 @@
 ### Hi there 👋
-社工库电报频道👉https://t.me/XingDunBot?start=c24Jx2👈
 
 推荐的翻墙服务：[JustMySocks3](https://justmysocks3.net/members/aff.php?aff=14995)或[JustMySocks5](https://justmysocks5.net/members/aff.php?aff=14995)，支持SS和V2Ray，自带防和谐动态切IP
 <!--
