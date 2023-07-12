@@ -6,6 +6,6 @@
 -->
 
 <a href="https://github.com/hiwanz">
-  <img width="425px" height="195px" src="https://github-readme-stats.vercel.app/api?username=hiwanz&show_icons=true&theme=merko&count_private=true" alt="hiwanz's github stats" />
-  <img width="425px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwanz&theme=merko&layout=compact" alt="hiwanz's github top languages" />
+  <img width="420px" height="195px" src="https://github-readme-stats.vercel.app/api?username=hiwanz&show_icons=true&theme=merko&count_private=true" alt="hiwanz's github stats" />
+  <img width="420px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwanz&theme=merko&layout=compact" alt="hiwanz's github top languages" />
 </a>
